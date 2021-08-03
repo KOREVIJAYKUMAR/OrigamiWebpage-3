@@ -1,0 +1,37 @@
+h2{color: #9400c3;}
+h2{background-color: #0000ff;}
+
+p{color: #663399;}
+p{background-color: #20b2aa;}
+
+h3{color: #4b0082;}
+h3{background-color: #00ffff;}
+h3{text-align: center;}
+
+h4{color: #483d8b;}
+h4{background-color: #00bfff;}
+
+a{color: #8b008b;}
+
+
+
+*{background-color: #7d29df;}
+
+.header{background-color: #8b008b;
+display: flex;
+justify-content: center;
+flex-direction: column;
+text-align: center;
+}
+
+.grid{background-color: #191970;
+display: flex;    
+justify-content: space-between;
+flex-wrap: wrap;
+text-align: center;
+flex-direction: row;
+border-radius: 50px;
+}
+
+
+
